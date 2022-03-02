@@ -1,0 +1,16 @@
+F:\task 9\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+F:\task 9\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+F:\task 9\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+F:\task 9\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+F:\task 9\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+F:\task 9\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+F:\task 9\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+F:\task 9\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\task 9\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+F:\task 9\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+F:\task 9\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\task 9\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+F:\task 9\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\refint\ConsoleApp1.dll
+F:\task 9\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+F:\task 9\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+F:\task 9\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
