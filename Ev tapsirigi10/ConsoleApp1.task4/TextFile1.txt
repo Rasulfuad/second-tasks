@@ -1,0 +1,6 @@
+task 1
+
+set a = 234
+init b
+compute b =  a *10 +7
+print b

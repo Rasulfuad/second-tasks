@@ -1,0 +1,6 @@
+set a = 23456
+set b = 34567
+
+init c
+compute c =   (a + b + 500000) * 10 + 5
+print c

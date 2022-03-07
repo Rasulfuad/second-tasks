@@ -1,0 +1,9 @@
+set a = 2345
+set b = 3456789
+init c
+compute c =  a * 4 / 100.0
+init d
+compute d =   b * 9 / 100.0
+init e
+compute e =   (c + d) * 10 / 100.0
+print e

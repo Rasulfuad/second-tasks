@@ -1,0 +1,4 @@
+set a = 333
+init b
+compute b =  a +333000
+print b

@@ -1,0 +1,6 @@
+set a = 12345
+init b
+compute b =  a + 7000
+init c
+compute c =  b * 10 + 8;
+print c

@@ -1,0 +1,6 @@
+set a = 12345
+init b
+compute b =  12345 * 18 / 100.0
+init c
+compute c =  b * 3 / 100.00
+print c

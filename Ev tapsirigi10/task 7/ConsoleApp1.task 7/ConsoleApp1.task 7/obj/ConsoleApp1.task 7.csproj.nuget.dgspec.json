@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\task 7\\ConsoleApp1.task 7\\ConsoleApp1.task 7\\ConsoleApp1.task 7.csproj": {}
+    "C:\\Users\\fuad\\Desktop\\second-tasks\\Ev tapsirigi10\\task 7\\ConsoleApp1.task 7\\ConsoleApp1.task 7\\ConsoleApp1.task 7.csproj": {}
   },
   "projects": {
-    "F:\\task 7\\ConsoleApp1.task 7\\ConsoleApp1.task 7\\ConsoleApp1.task 7.csproj": {
+    "C:\\Users\\fuad\\Desktop\\second-tasks\\Ev tapsirigi10\\task 7\\ConsoleApp1.task 7\\ConsoleApp1.task 7\\ConsoleApp1.task 7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\task 7\\ConsoleApp1.task 7\\ConsoleApp1.task 7\\ConsoleApp1.task 7.csproj",
+        "projectUniqueName": "C:\\Users\\fuad\\Desktop\\second-tasks\\Ev tapsirigi10\\task 7\\ConsoleApp1.task 7\\ConsoleApp1.task 7\\ConsoleApp1.task 7.csproj",
         "projectName": "ConsoleApp1.task 7",
-        "projectPath": "F:\\task 7\\ConsoleApp1.task 7\\ConsoleApp1.task 7\\ConsoleApp1.task 7.csproj",
+        "projectPath": "C:\\Users\\fuad\\Desktop\\second-tasks\\Ev tapsirigi10\\task 7\\ConsoleApp1.task 7\\ConsoleApp1.task 7\\ConsoleApp1.task 7.csproj",
         "packagesPath": "C:\\Users\\fuad\\.nuget\\packages\\",
-        "outputPath": "F:\\task 7\\ConsoleApp1.task 7\\ConsoleApp1.task 7\\obj\\",
+        "outputPath": "C:\\Users\\fuad\\Desktop\\second-tasks\\Ev tapsirigi10\\task 7\\ConsoleApp1.task 7\\ConsoleApp1.task 7\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

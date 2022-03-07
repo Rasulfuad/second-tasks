@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\task 8\\ConsoleApp1.task 8\\ConsoleApp1.task 8\\ConsoleApp1.task 8.csproj",
+      "projectUniqueName": "C:\\Users\\fuad\\Desktop\\second-tasks\\Ev tapsirigi10\\task 8\\ConsoleApp1.task 8\\ConsoleApp1.task 8\\ConsoleApp1.task 8.csproj",
       "projectName": "ConsoleApp1.task 8",
-      "projectPath": "F:\\task 8\\ConsoleApp1.task 8\\ConsoleApp1.task 8\\ConsoleApp1.task 8.csproj",
+      "projectPath": "C:\\Users\\fuad\\Desktop\\second-tasks\\Ev tapsirigi10\\task 8\\ConsoleApp1.task 8\\ConsoleApp1.task 8\\ConsoleApp1.task 8.csproj",
       "packagesPath": "C:\\Users\\fuad\\.nuget\\packages\\",
-      "outputPath": "F:\\task 8\\ConsoleApp1.task 8\\ConsoleApp1.task 8\\obj\\",
+      "outputPath": "C:\\Users\\fuad\\Desktop\\second-tasks\\Ev tapsirigi10\\task 8\\ConsoleApp1.task 8\\ConsoleApp1.task 8\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

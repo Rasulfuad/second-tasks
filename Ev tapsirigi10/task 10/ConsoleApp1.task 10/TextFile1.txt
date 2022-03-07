@@ -1,0 +1,15 @@
+set a = 1234
+set b = 2345
+set c = 3456
+
+init d
+compute d =  a * 1 / 100.0
+init e
+compute e =   b * 2 / 100.0
+init f
+compute f =   c * 3 / 100.0
+init g
+compute g =   c * 7 / 100.0
+init h
+compute h =   d - e - f + g
+print h

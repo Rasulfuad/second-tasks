@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\task 5\\ConsoleApp1.task5\\ConsoleApp1.task5\\ConsoleApp1.task5.csproj": {}
+    "C:\\Users\\fuad\\Desktop\\second-tasks\\Ev tapsirigi10\\task 5\\ConsoleApp1.task5\\ConsoleApp1.task5\\ConsoleApp1.task5.csproj": {}
   },
   "projects": {
-    "F:\\task 5\\ConsoleApp1.task5\\ConsoleApp1.task5\\ConsoleApp1.task5.csproj": {
+    "C:\\Users\\fuad\\Desktop\\second-tasks\\Ev tapsirigi10\\task 5\\ConsoleApp1.task5\\ConsoleApp1.task5\\ConsoleApp1.task5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\task 5\\ConsoleApp1.task5\\ConsoleApp1.task5\\ConsoleApp1.task5.csproj",
+        "projectUniqueName": "C:\\Users\\fuad\\Desktop\\second-tasks\\Ev tapsirigi10\\task 5\\ConsoleApp1.task5\\ConsoleApp1.task5\\ConsoleApp1.task5.csproj",
         "projectName": "ConsoleApp1.task5",
-        "projectPath": "F:\\task 5\\ConsoleApp1.task5\\ConsoleApp1.task5\\ConsoleApp1.task5.csproj",
+        "projectPath": "C:\\Users\\fuad\\Desktop\\second-tasks\\Ev tapsirigi10\\task 5\\ConsoleApp1.task5\\ConsoleApp1.task5\\ConsoleApp1.task5.csproj",
         "packagesPath": "C:\\Users\\fuad\\.nuget\\packages\\",
-        "outputPath": "F:\\task 5\\ConsoleApp1.task5\\ConsoleApp1.task5\\obj\\",
+        "outputPath": "C:\\Users\\fuad\\Desktop\\second-tasks\\Ev tapsirigi10\\task 5\\ConsoleApp1.task5\\ConsoleApp1.task5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

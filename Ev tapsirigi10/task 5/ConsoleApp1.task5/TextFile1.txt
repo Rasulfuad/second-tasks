@@ -1,0 +1,6 @@
+set a = 2345
+init b
+compute b =  a + 40000
+init c
+compute c =  (b * 100 + 44) * 44 / 100.0
+print c

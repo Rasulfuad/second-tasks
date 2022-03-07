@@ -9,7 +9,7 @@ namespace ConsoleApp1.task4
             /*  3 reqemli eded verilib.Bu ededin axirina 7 artir.Sonra cavabin 7 % tap */
 
             int a = 234;
-            int b = a + 2113;
+            int b = a * 10 + 7;
             double c = b * 7 / 100.0;
 
             Console.WriteLine(c);

@@ -9,6 +9,7 @@ namespace ConsoleApp1.task2
 
             int a = 333;
             int b = 333 + 333000;
+
             
             Console.WriteLine(b);
         }
